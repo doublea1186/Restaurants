@@ -20,6 +20,7 @@ Starting client:
 (1) cd client
 (2) npm install 
 (3) npm start 
+
 Security Protocols:
 (1) Created Password hashing using Bcrypt and utf8 encodings for storage of sensitive data 
 (2) Enabled CSRF protection using token validation on all requests 
