@@ -1,0 +1,21 @@
+.rating {
+    border-radius: 4px;
+    margin-right: 1rem;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 1rem;
+}
+
+.rating > * {
+    margin-right: 4px;
+    color: '#ff6d75';
+}
+
+.rating p {
+    font-size: .9rem;
+    align-items: center;
+    color: '#ff6d75';
+}
