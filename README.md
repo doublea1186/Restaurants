@@ -1,8 +1,4 @@
-# 550-Project
-
-by Ahmed Ahmed, Anushka Agarwal, Keren Makhervaks, Oliver Shi
-
-CIS450/550: Databases and Information Systems, Fall 2021
+by Ahmed Ahmed
 
 Credentials:
 
